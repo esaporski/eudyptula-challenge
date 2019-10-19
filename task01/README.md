@@ -1,5 +1,4 @@
 # The Eudyptula Challenge
-------
 
 ## This is Task 01 of the Eudyptula Challenge
 
